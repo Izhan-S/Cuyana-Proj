@@ -9,7 +9,7 @@ Cuyana stands for sustainable fashion, and this design project was an effort to 
 ## View the Design
 For a complete and interactive view of the designs, please visit the Figma prototype:
 
-- [Cuyana UX/UI Design on Figma]([Your_Figma_Prototype_Link](https://www.figma.com/proto/JTzY9BoWKIe50JGjk6g190/Cuyana?type=design&node-id=91-146&t=PpulmYxjXEju6WLM-1&scaling=min-zoom&page-id=0%3A1&mode=design))
+- [Cuyana UX/UI Design on Figma] [Your_Figma_Prototype_Link](https://www.figma.com/proto/JTzY9BoWKIe50JGjk6g190/Cuyana?type=design&node-id=91-146&t=PpulmYxjXEju6WLM-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
 ## Contents of the Repository
 - `Mobile_Designs/`: This directory contains all the mobile version design files.
